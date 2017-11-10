@@ -1,0 +1,9 @@
+后面我们如果对本地代码进行了改动，只需运行这 3 条命令即可将代码推送到安全可靠的 GitHub 上：
+1.保存到暂存区
+$ git add -A
+
+2.输入描述信息并提交到本地的git
+$ git commit -m "this is remark"
+
+3.将代码推送到github
+$ git push
